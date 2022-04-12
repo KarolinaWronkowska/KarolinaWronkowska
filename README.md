@@ -14,8 +14,8 @@ My goal is increase the knowledge and skils in software testing.
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 * [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/) - in progress
 # My test case and bug report
-[Przypadki testowe answear.com](https://docs.google.com/spreadsheets/d/1sRgCFwdGwIFwNfRu0qCnwHhLu-2MWtsJ/edit?usp=sharing&ouid=113400306284042956553&rtpof=true&sd=true)
-[Zgłoszenie defektu](https://docs.google.com/document/d/1Lk1_5fJrYKjgAAaNwknVgO7VUE91305Q/edit?usp=sharing&ouid=113400306284042956553&rtpof=true&sd=true)
+* [Przypadki testowe answear.com](https://docs.google.com/spreadsheets/d/1sRgCFwdGwIFwNfRu0qCnwHhLu-2MWtsJ/edit?usp=sharing&ouid=113400306284042956553&rtpof=true&sd=true)
+* [Zgłoszenie defektu](https://docs.google.com/document/d/1Lk1_5fJrYKjgAAaNwknVgO7VUE91305Q/edit?usp=sharing&ouid=113400306284042956553&rtpof=true&sd=true)
 
 
 
